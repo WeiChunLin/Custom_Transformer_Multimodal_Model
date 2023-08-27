@@ -48,7 +48,7 @@ This codebase is designed to:
 Ensure that you have:
 - Python 
 - PyTorch
-- Transformers library from Hugging Face
+- Gensim
 - Other requirements 
 
 ### Installation
